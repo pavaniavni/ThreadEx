@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\bin\Debug\net6.0\ThreadEx.exe
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\bin\Debug\net6.0\ThreadEx.deps.json
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\bin\Debug\net6.0\ThreadEx.runtimeconfig.json
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\bin\Debug\net6.0\ThreadEx.dll
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\bin\Debug\net6.0\ref\ThreadEx.dll
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\bin\Debug\net6.0\ThreadEx.pdb
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\obj\Debug\net6.0\ThreadEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\obj\Debug\net6.0\ThreadEx.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\obj\Debug\net6.0\ThreadEx.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\obj\Debug\net6.0\ThreadEx.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\obj\Debug\net6.0\ThreadEx.dll
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\obj\Debug\net6.0\ref\ThreadEx.dll
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\obj\Debug\net6.0\ThreadEx.pdb
+C:\Users\Pavani\source\repos\ThreadEx\ThreadEx\obj\Debug\net6.0\ThreadEx.genruntimeconfig.cache
